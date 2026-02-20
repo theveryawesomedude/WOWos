@@ -15,3 +15,4 @@ You can get the floppy image for **QEMU** or the ISO image for **VirtualBox**
 #### Notes
 - This is not 32-bit or 64-bit.
 - This is a 16-bit project, meaning that the size of this is very small.
+- Shell uses hotkeys instead of commands(Kysh)
